@@ -5,7 +5,7 @@
 }
 
 .container{
-    background: url(/asets/bg.jpg);
+    background: url(../asets/bg.jpg);
     min-height: 100vh;
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
@@ -65,4 +65,10 @@
     font-weight: bold;
     background-color: rgba(135, 220, 61, 0.814);
     border-bottom: 1px dotted black;
+}
+
+.name{
+    font-size: 5rem;
+    top: 50px;
+    left: 100px;
 }

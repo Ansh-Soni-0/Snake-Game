@@ -1,8 +1,8 @@
 let inputDir = {x:0 , y:0};
-const foodSound = new Audio('/asets/food.mp3');
-const gameOverSound = new Audio('/asets/gameover.mp3');
-const moveSound = new Audio('/asets/move.mp3');
-const musicSound = new Audio('/asets/music.mp3');
+const foodSound = new Audio('../asets/food.mp3');
+const gameOverSound = new Audio('../asets/gameover.mp3');
+const moveSound = new Audio('../asets/move.mp3');
+const musicSound = new Audio('../asets/music.mp3');
 // const board = document.getElementById("board");
 let speed = 8;
 let score = 0;
